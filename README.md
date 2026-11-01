@@ -1,5 +1,5 @@
 # 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dalkaori22@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dalkaoru2@gmail.com) 
 
 # 💻 Tech Stack:
 
